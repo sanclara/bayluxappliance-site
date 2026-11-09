@@ -1,0 +1,16 @@
+# BayLuxAppliance
+
+> BayLuxAppliance is a local appliance repair information and scheduling site for Santa Clara, CA and six neighboring cities (San Jose, Sunnyvale, Cupertino, Campbell, Los Gatos, Saratoga). It covers nine appliance repair categories, fifteen serviced brands, flat-rate pricing, and licensing/warranty information for same-day and emergency repair visits.
+
+## Page: Appliance Repair Santa Clara CA
+
+Purpose: Commercial homepage answering "appliance repair santa clara ca" — what is covered, how fast service is, what it costs, which brands are serviced, and how trust/licensing works, with a repair-vs-replace decision guide and FAQ.
+
+Markdown version: /appliance-repair-santa-clara.md
+
+## Other pages
+
+- /about/ — site purpose and content sourcing
+- /contact/ — contact details and service area
+- /editorial-policy/ — how pricing, licensing, and brand data are sourced and verified
+- /cookie-policy/ — cookie usage disclosure
