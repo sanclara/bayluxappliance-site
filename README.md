@@ -1,6 +1,6 @@
 # BayLuxAppliance.com
 
-Static SEO satellite page for "appliance repair santa clara ca", built per the file architecture in `../appliancepro.care/LLM/CLAUDE.md`.
+Static  SEO satellite page for "appliance repair santa clara ca", built per the file architecture in `../appliancepro.care/LLM/CLAUDE.md`.
 
 ## Build
 
