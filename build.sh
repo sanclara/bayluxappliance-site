@@ -88,6 +88,12 @@ build_page() {
     echo '<!doctype html>'
     echo '<html lang="en">'
     echo '<head>'
+    echo '<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-T8V455DT"></script>'
+    echo '<script>'
+    echo '  window.dataLayer = window.dataLayer || [];'
+    echo '  function gtag(){dataLayer.push(arguments);}'
+    echo "  gtag('js', new Date());"
+    echo '</script>'
     echo '<meta charset="utf-8">'
     echo '<meta name="viewport" content="width=device-width, initial-scale=1">'
     echo "<title>${title}</title>"
